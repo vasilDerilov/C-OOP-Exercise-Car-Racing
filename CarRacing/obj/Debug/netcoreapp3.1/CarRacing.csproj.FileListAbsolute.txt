@@ -1,0 +1,13 @@
+C:\Users\vas13\OneDrive\Desktop\HW\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.exe
+C:\Users\vas13\OneDrive\Desktop\HW\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.deps.json
+C:\Users\vas13\OneDrive\Desktop\HW\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.json
+C:\Users\vas13\OneDrive\Desktop\HW\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.dev.json
+C:\Users\vas13\OneDrive\Desktop\HW\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\vas13\OneDrive\Desktop\HW\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\vas13\OneDrive\Desktop\HW\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csprojAssemblyReference.cache
+C:\Users\vas13\OneDrive\Desktop\HW\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfoInputs.cache
+C:\Users\vas13\OneDrive\Desktop\HW\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfo.cs
+C:\Users\vas13\OneDrive\Desktop\HW\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.CoreCompileInputs.cache
+C:\Users\vas13\OneDrive\Desktop\HW\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\vas13\OneDrive\Desktop\HW\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\vas13\OneDrive\Desktop\HW\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.genruntimeconfig.cache
